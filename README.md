@@ -6,6 +6,8 @@
 
 > 實戰派 opencode + infra 技術筆記 — 每一篇都係真機驗證、有代碼、可直接照抄。
 
+**🌐 Language:** 中文 | [English](README_EN.md)
+
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-macOS-9cf)
 ![opencode](https://img.shields.io/badge/opencode-v1.18.18-green)
