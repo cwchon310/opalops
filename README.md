@@ -15,6 +15,9 @@
 
 | 文章 | 主題 | 標籤 |
 |------|------|------|
+| [linux-server-deployment-security-guide.md](linux-server-deployment-security-guide.md) | Linux 伺服器部署與安全完全指南：裝機→SSH 強化→防火牆→systemd→監控 | `linux` `server` `security` |
+| [github-git-gh-cli-complete-guide.md](github-git-gh-cli-complete-guide.md) | GitHub 從零到實戰：Git 三大概念＋分支合併＋gh CLI 完全上手 | `github` `git` `gh-cli` |
+| [macos-terminal-commands-guide.md](macos-terminal-commands-guide.md) | macOS 終端命令大全：零基礎日常必備 100+ 命令九大分類 | `macos` `terminal` `zsh` |
 | [macbook-air-m1-8gb-optimization.md](macbook-air-m1-8gb-optimization.md) | MacBook Air M1 8GB 系統優化完全指南（磁碟/記憶體/後台/開發環境四大部分） | `macos` `optimization` `m1` |
 | [raspberry-pi-homelab-guide.md](raspberry-pi-homelab-guide.md) | Raspberry Pi 家庭伺服器陣列：零基礎從零到管理多部 Pi | `raspberry-pi` `homelab` `linux` |
 | [remote-control-mac-via-wechat.md](remote-control-mac-via-wechat.md) | 用手機遙距控制電腦：微信 × AI 助手橋接完全教學 | `wechat` `remote` `automation` |
