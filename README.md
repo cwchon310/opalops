@@ -15,6 +15,9 @@
 
 | 文章 | 主題 | 標籤 |
 |------|------|------|
+| [macbook-air-m1-8gb-optimization.md](macbook-air-m1-8gb-optimization.md) | MacBook Air M1 8GB 系統優化完全指南（磁碟/記憶體/後台/開發環境四大部分） | `macos` `optimization` `m1` |
+| [raspberry-pi-homelab-guide.md](raspberry-pi-homelab-guide.md) | Raspberry Pi 家庭伺服器陣列：零基礎從零到管理多部 Pi | `raspberry-pi` `homelab` `linux` |
+| [remote-control-mac-via-wechat.md](remote-control-mac-via-wechat.md) | 用手機遙距控制電腦：微信 × AI 助手橋接完全教學 | `wechat` `remote` `automation` |
 | [opencode-performance-tuning.md](opencode-performance-tuning.md) | opencode 全面效能優化：1.8GB 快取 → 更快回應 | `opencode` `sqlite` `performance` |
 | [github-cli-device-flow-automation.md](github-cli-device-flow-automation.md) | 用 AppleScript 自動化 GitHub CLI Device Flow 登入 | `github` `automation` `osascript` |
 | [cc-connect-weixin-dns-troubleshooting.md](cc-connect-weixin-dns-troubleshooting.md) | 排查 cc-connect 微信橋接「收唔到訊息」— DNS 間歇性失敗實戰 | `weixin` `dns` `troubleshooting` |
