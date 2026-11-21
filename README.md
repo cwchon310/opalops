@@ -56,6 +56,8 @@ cd opalops
 ## 問題 / ## 診斷 / ## 修復 / ## 教訓
 ```
 
+詳見 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
 ## 📄 License
 
 MIT — 自由使用、修改、轉載。
