@@ -26,6 +26,8 @@
 | [opencode-performance-tuning.md](opencode-performance-tuning.md) | opencode 全面效能優化：1.8GB 快取 → 更快回應 | `opencode` `sqlite` `performance` |
 | [github-cli-device-flow-automation.md](github-cli-device-flow-automation.md) | 用 AppleScript 自動化 GitHub CLI Device Flow 登入 | `github` `automation` `osascript` |
 | [cc-connect-weixin-dns-troubleshooting.md](cc-connect-weixin-dns-troubleshooting.md) | 排查 cc-connect 微信橋接「收唔到訊息」— DNS 間歇性失敗實戰 | `weixin` `dns` `troubleshooting` |
+| [docker-homelab-guide.md](docker-homelab-guide.md) | Docker 家庭伺服器完全指南：NAS、媒體伺服器、反向代理、監控 | `docker` `homelab` `linux` |
+| [vpn-setup-guide.md](vpn-setup-guide.md) | WireGuard VPN 架設完全指南：安全遠端連接家庭/公司網路 | `vpn` `wireguard` `security` |
 
 ## ✨ 特色
 
