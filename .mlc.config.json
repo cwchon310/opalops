@@ -1,0 +1,20 @@
+{
+  "httpHeaders": {
+    "User-Agent": "Mozilla/5.0 (compatible; OpalOps CI; +https://github.com/cwchon310/opalops)"
+  },
+  "retryOn429": true,
+  "retryOn429WaitTime": 5,
+  "retryOn429MaxRetries": 3,
+  "checkoutFiles": false,
+  "folderPath": ".",
+  "extension": ".md",
+  "activePeriodInDays": 0,
+  "baseBranch": "main",
+  "branchPath": "",
+  "baseLink": "",
+  "qualifiedPathPresentation": "relative",
+  "filesToExclude": [],
+  "strongLock": false,
+  "verbose": true,
+  "allowQuiet": true
+}
