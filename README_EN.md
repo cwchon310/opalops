@@ -26,6 +26,8 @@
 | [opencode-performance-tuning.md](opencode-performance-tuning.md) | opencode performance tuning: 1.8GB cache → faster responses | `opencode` `sqlite` `performance` |
 | [github-cli-device-flow-automation.md](github-cli-device-flow-automation.md) | Automating GitHub CLI Device Flow login with AppleScript | `github` `automation` `osascript` |
 | [cc-connect-weixin-dns-troubleshooting.md](cc-connect-weixin-dns-troubleshooting.md) | Debugging cc-connect WeChat bridge "messages not received" — real-world intermittent DNS failure | `weixin` `dns` `troubleshooting` |
+| [docker-homelab-guide.md](docker-homelab-guide.md) | Complete Docker home server guide: NAS, media server, reverse proxy, monitoring | `docker` `homelab` `linux` |
+| [vpn-setup-guide.md](vpn-setup-guide.md) | WireGuard VPN setup guide: secure remote access to home/company network | `vpn` `wireguard` `security` |
 
 > **Note:** The articles themselves are written in Chinese. This repo is a personal engineering notebook — translations of each article may be added over time.
 
